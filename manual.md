@@ -5,4 +5,7 @@
 * git add " имя файла" - отслеживает файл
 * git status - проверка статуса репозитория
 * clear - убирает ранее введенные в терминал команды
-* git log - отображает 
+* git log - отображает все коммиты
+* git diff - просмотр изменений до коммита
+* git commit --amend -m "Updated message for the previous commit" - изменение последнего коммита
+* git revert HEAD - откат последнего коммита
