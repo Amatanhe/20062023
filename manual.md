@@ -14,3 +14,4 @@
 * git branch - отражает новые ветки
 * git merge - сливает ветки
 * git branch branch_name - создает новую ветку с заданным именем
+* git merge - сливает ветки
