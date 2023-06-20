@@ -10,3 +10,4 @@
 * git commit --amend -m "Updated message for the previous commit" - изменение последнего коммита
 * git revert HEAD - откат последнего коммита
 * git check out - переключение между коммитами или ветками (branch)
+## Ветки
